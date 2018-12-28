@@ -1,11 +1,16 @@
 _repo: Pioneer-Colored-Christians_58541
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58541-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Harriet Parks
     gutenberg_agent_id: '50022'
     url: http://www.gutenberg.org/2009/agents/50022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58541#Pioneer-Colored-Christians
 gutenberg_issued: '2018-12-26'
 gutenberg_type: Text
 identifiers:
